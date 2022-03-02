@@ -1,9 +1,9 @@
 # Hi there, I'm Ashok Vavare 👋 
 
-## I'm a Third Year Student, Programmer and and Developement Enthusiast!!
+## I'm a Programmer and Developement Enthusiast!!
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to play cricket .
+- I am a Third-Year Student at Walchand College of Engineering Sangli. 🏫
+- I’m currently learning everything 🤣
 
 
 ### Connect with me:
