@@ -7,9 +7,6 @@
 - Studying Electronics Engineering at WCE Sangli 🎓.
 
 
-[![@ashokav008's Holopin board](https://holopin.me/ashokav008)](https://holopin.io/@ashokav008)
-
-
 <h1 align="left">Connect with me 💬</h1>
 <div align="left">
  <a href="https://www.linkedin.com/in/ashok-vavare-78a45a191/" target="_blank">
@@ -47,6 +44,9 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   
 </p>
+
+[![@ashokav008's Holopin board](https://holopin.me/ashokav008)](https://holopin.io/@ashokav008)
+
 
  <br>
 
