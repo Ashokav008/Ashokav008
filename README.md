@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   
 </p>
-<h1>Open Source Contribution🛠</h1>
+<h1>Open Source Contribution</h1>
 
 [![@ashokav008's Holopin board](https://holopin.me/ashokav008)](https://holopin.io/@ashokav008)
 
