@@ -25,6 +25,25 @@ Currently exploring modern full-stack development, deployment workflows, and pra
 
 ---
 
+## Featured Build: DevToolStack
+
+I am building **[DevToolStack](https://www.devtoolstack.in/)**, a free browser-based toolbox for backend, API, database, and debugging workflows.
+
+- Live site: **[devtoolstack.in](https://www.devtoolstack.in/)**
+- Source code: **[github.com/Ashokav008/unwrapplsql](https://github.com/Ashokav008/unwrapplsql)**
+- Product Hunt: **[DevToolStack](https://www.producthunt.com/products/devtoolstack)**
+- Developer article: **[Free browser-based tools for backend, API, SQL, and debugging workflows](https://dev.to/ashokav008/devtoolstack-free-browser-based-tools-for-backend-api-sql-and-debugging-workflows-1jhe)**
+
+Popular tools:
+
+- **[SQL Formatter](https://www.devtoolstack.in/sql-formatter/)** - format SQL and procedural scripts
+- **[Redirect Checker](https://www.devtoolstack.in/redirect-checker/)** - inspect redirect chains and status codes
+- **[Regex Tester](https://www.devtoolstack.in/regex-tester/)** - test patterns against sample text
+- **[cURL to Fetch Converter](https://www.devtoolstack.in/curl-to-fetch/)** - convert API commands to browser fetch code
+- **[URL Parser](https://www.devtoolstack.in/url-parser/)** - inspect hosts, paths, query params, and fragments
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -49,7 +68,7 @@ Currently exploring modern full-stack development, deployment workflows, and pra
 
 ## 📌 Featured Projects
 
-- **[unwrapplsql](https://github.com/Ashokav008/unwrapplsql)** — Web app/tooling project around PL/SQL unwrapping workflows
+- **[DevToolStack](https://www.devtoolstack.in/)** / **[repo](https://github.com/Ashokav008/unwrapplsql)** — Free browser-based developer tools for SQL, APIs, regex, URLs, payloads, and debugging workflows
 - **[LeetCode](https://github.com/Ashokav008/LeetCode)** — C++ problem-solving and DSA practice
 - **[portfolio-ashoka](https://github.com/Ashokav008/portfolio-ashoka)** — Personal portfolio website
 - **[News-24-X-7](https://github.com/Ashokav008/News-24-X-7)** — News website using News API with category-based search
